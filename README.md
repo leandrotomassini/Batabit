@@ -14,3 +14,5 @@
         * ***Objetivo a largo plazo:*** nuestro objetivo es ser el lugar donde todos los inversores en criptografía utilizarán para contar con información y herramientas útiles para mejorar sus operaciones.  
 
 Espero que esta información le ayude a comprender mejor nuestro proyecto. Cualquier otra información que desee, por favor, hágamelo saber.
+
+[Mis notas personales: ](https://exultant-albatross-c8d.notion.site/Dise-o-mobile-first-5b93b9832fb14bab962e821ddd53bb68)
