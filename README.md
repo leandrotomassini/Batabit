@@ -15,4 +15,4 @@
 
 Espero que esta información le ayude a comprender mejor nuestro proyecto. Cualquier otra información que desee, por favor, hágamelo saber.
 
-[Mis notas personales: ](https://exultant-albatross-c8d.notion.site/Dise-o-mobile-first-5b93b9832fb14bab962e821ddd53bb68)
+[Click aquí para leer mis notas personales](https://exultant-albatross-c8d.notion.site/Dise-o-mobile-first-5b93b9832fb14bab962e821ddd53bb68)
