@@ -103,22 +103,94 @@ header img {
 }
 
 main {
-    width: 100%;
-    height: auto;
-    background-color: var(--off-white);
+  width: 100%;
+  height: auto;
+  background-color: var(--off-white);
 }
 
 .main-exchange-container {
-    width: 100%;
-    height: auto;
-    padding-top: 80px;
-    padding-bottom: 30px;
-    text-align: center;
+  width: 100%;
+  height: auto;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  text-align: center;
 }
 
-.main-exchange-container--title{
-    width: 90%;
-    min-width: 288px;
-    max-width: 900px;
-    margin: 0 auto;
+.main-exchange-container--title {
+  width: 90%;
+  min-width: 288px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.main-exchange-container .backgroundImg {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  background-image: url("../assets/img/Bitcoin.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.main-exchange-container h2 {
+  margin-bottom: 30px;
+  font-size: 2.4rem;
+  font-weight: bold;
+  line-height: 2.6rem;
+  color: var(--black);
+}
+
+.main-exchange-container {
+  margin-bottom: 30px;
+  font-size: 1.4rem;
+  font-weight: 500px;
+  height: 1.6rem;
+  color: #757575;
+}
+
+.main-tables-container {
+  padding-top: 30px;
+  width: 250px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(6, 1fr);
+  margin: 0 auto;
+  column-gap: 18px;
+  row-gap: 18px;
+  font-size: 1.8rem;
+}
+
+.main-tables-container__titulo--tabla {
+  color: var(--bitcoin-orange);
+  grid-column: 1/4;
+}
+
+.main-tables-container__titulo--moneda {
+  grid-column: 1/2;
+}
+
+.main-tables-container__actualizacion {
+  grid-column: 1/4;
+  color: var(--black);
+  background-color: var(--soft-orange);
+  padding: 2px;
+}
+
+.main-product-detail {
+  position: relative;
+  width: 100%;
+  min-width: 320px;
+  height: auto;
+  padding: 20px 10px;
+  background-color: var(--warm-black);
+  top: 78vh;
+}
+
+.product-detail--batata-logo {
+  position: absolute;
+  width: 40px;
+  height: 25px;
+  background-image: url('../assets/icons/batata.svg');
 }
